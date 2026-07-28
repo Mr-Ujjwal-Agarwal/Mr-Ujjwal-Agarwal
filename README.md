@@ -60,11 +60,11 @@ I enjoy building production-inspired projects using **AWS, Terraform, Docker, Ku
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| **🚀 LinuxOps Toolkit** | A comprehensive DevOps and Cloud Engineering repository featuring Linux, AWS, Docker, Kubernetes, Terraform, CI/CD, Monitoring, and automation with hands-on labs and documentation. | Linux • AWS • Terraform • Docker • Kubernetes • Bash |
-| **👨‍💼 Cloud-Ready Employee Management System** | A full-stack Employee Management System built to explore application deployment, containerization, CI/CD workflows, and cloud-ready architecture. | Python • Docker • Git • AWS |
-| **📊 OpsBoard – DevOps Operations Dashboard** | A modern DevOps dashboard concept for visualizing infrastructure, deployments, cloud services, and operational metrics through a clean interface. | HTML • CSS • JavaScript • Bootstrap |
+| 🚀 Project | 📖 Description | 🛠️ DevOps Stack |
+|------------|----------------|-----------------|
+| **📊 OpsBoard – DevOps Operations Dashboard** | A production-inspired operations dashboard designed to visualize infrastructure health, deployment pipelines, cloud resources, monitoring metrics, and operational workflows inspired by modern DevOps environments. | AWS • Docker • Kubernetes • Prometheus • Grafana |
+| **⚙️ Employee Management System – DevOps Deployment Pipeline** | A production-inspired application demonstrating containerization, Infrastructure as Code, CI/CD automation, and cloud deployment using modern DevOps workflows. | AWS • Docker • Terraform • GitHub Actions • Jenkins |
+| **🐧 LinuxOps Toolkit** | A modular Linux Administration Toolkit built with Bash Shell Scripting, featuring **13 automation modules** for user, process, package, service, network, disk, backup, logging, health monitoring, and security auditing to simplify Linux operations. | Bash • Linux • Systemd • Networking • Security • Automation |
 
 </div>
 
@@ -74,35 +74,28 @@ I enjoy building production-inspired projects using **AWS, Terraform, Docker, Ku
 
 <div align="center">
 
-<a href="https://github.com/Mr-Ujjwal-Agarwal/LinuxOps-Toolkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Ujjwal-Agarwal&repo=LinuxOps-Toolkit&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/Mr-Ujjwal-Agarwal/OpsBoard">
+<img src="https://img.shields.io/badge/📊%20OpsBoard-View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Mr-Ujjwal-Agarwal/employee-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Ujjwal-Agarwal&repo=employee-management-system&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/👨‍💼%20Employee%20Management-View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/Mr-Ujjwal-Agarwal/OpsBoard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Ujjwal-Agarwal&repo=OpsBoard&theme=github_dark&hide_border=true"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Mr-Ujjwal-Agarwal/LinuxOps-Toolkit">
+<img src="https://img.shields.io/badge/🐧%20LinuxOps%20Toolkit-View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
 
 My GitHub profile reflects my journey of learning through hands-on projects, practical experimentation, and continuous improvement in Cloud & DevOps Engineering.
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Ujjwal-Agarwal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ujjwal-Agarwal&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
