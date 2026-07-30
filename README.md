@@ -101,7 +101,7 @@ My GitHub profile reflects my journey of learning through hands-on projects, pra
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ujjwal-Agarwal&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-ujjwal-agarwal&theme=github-dark&hide_border=true"/>
 
 </div>
 
